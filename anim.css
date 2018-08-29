@@ -1,0 +1,14 @@
+.image{margin:auto;
+    width: 25%;}
+  
+img{ margin: 100px 100px;
+    max-width:300px;
+    max-height:350px;
+    transition: all 1s ease;
+}
+
+img:hover {
+  -webkit-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+}
